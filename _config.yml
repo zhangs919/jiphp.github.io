@@ -17,9 +17,8 @@ favicon: favicon.ico
 
 repository: zhangs919/jiphp.github.io
 github_url: https://github.com/zhangs919
-#url: http://www.jiphp.com
-url: https://zhangs919.github.io/jiphp.github.io/
-#enforce_ssl: jiphp.com
+url: http://www.jiphp.com
+enforce_ssl: jiphp.com
 
 ## Gem
 plugins:
