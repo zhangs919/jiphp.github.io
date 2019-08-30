@@ -9,16 +9,16 @@
 title:  乐融沃
 subtitle: 分享技术，品味人生
 name: 乐融沃 
-email: ityouknow@126.com
+email: 290648237@qq.com
 description: 本站是乐融沃的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: laravelvip,乐融沃,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: zhangs919/laravelvip.github.io
-github_url: https://github.com/zhangs919/laravelvip.github.io
-url: https://github.com/zhangs919/laravelvip.github.io
-enforce_ssl: laravelvip.com
+repository: zhangs919/jiphp.github.io
+github_url: https://github.com/zhangs919/jiphp.github.io
+url: http://www.jiphp.com
+enforce_ssl: jiphp.com
 
 ## Gem
 plugins:
