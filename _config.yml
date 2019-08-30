@@ -16,7 +16,7 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: zhangs919/jiphp.github.io
-github_url: https://github.com/zhangs919/jiphp.github.io
+github_url: https://github.com/zhangs919
 url: http://www.jiphp.com
 enforce_ssl: jiphp.com
 
